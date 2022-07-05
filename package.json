@@ -1,6 +1,6 @@
 {
   "name": "dc-freight-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Biblioteca para auxílio da criação de serverless/server de cálculo de frete para a plata forma da Dooca",
   "main": "./lib/index.js",
   "source": "./lib",
